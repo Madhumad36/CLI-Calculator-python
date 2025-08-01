@@ -19,7 +19,7 @@ It runs in the terminal and continuously prompts the user until they choose to e
 ## How it works 
 - Lets the user choose an operation (1–4).
 - Takes two numbers as input.
-- Gives back the result.
+- Performs the selected operation and gives back the result.
 - Keeps running until you select the exit option (5).
 
 ## How to Run
