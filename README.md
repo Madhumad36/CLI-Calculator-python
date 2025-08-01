@@ -13,11 +13,14 @@ It runs in the terminal and continuously prompts the user until they choose to e
 ## Features
 - User-friendly command-line interface
 - Supports all four basic operations
-- Continuous loop until the user selects the exit option
+- Handles division by zero and invalid operators
+- Continuous loop until the user selects the exit option.
 
-## Technologies Used
-- Python 3.x
-- VS Code, Terminal
+## How it works 
+- Lets the user choose an operation (1–4).
+- Takes two numbers as input.
+- Gives back the result.
+- Keeps running until you select the exit option (5).
 
 ## How to Run
 1. Ensure Python is installed on your system.
