@@ -22,8 +22,7 @@ It runs in the terminal and continuously prompts the user until they choose to e
 ## How to Run
 1. Ensure Python is installed on your system.
 2. Open a terminal or command prompt.
-3. Navigate to the directory containing the script `calculator.py`.
-4. Run the script using the following command:
+3. Run the  the script `calculator.py` using the following command:
 
 ```bash
 python calculator.py
