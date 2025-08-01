@@ -41,6 +41,3 @@ def calculator():
 if __name__ == "__main__":
     calculator()
 # calculator.py 
-# calculator.py
-
-""" A simple command-line interface calculator that performs basic arithmetic operations. """
